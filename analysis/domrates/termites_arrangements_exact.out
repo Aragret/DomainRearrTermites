@@ -1,0 +1,345 @@
+# filename	nodeID	solutionType	evenType	arrangement	sequenceIDsDpun_OGSprelim3_pep.dom	7	exact solution	fission	PF13513	evm.model.path_4644_pilon.2
+Dpun_OGSprelim3_pep.dom	7	exact solution	fission	PF00439	evm.model.path_1046_pilon.3,evm.model.path_1197_pilon.10,evm.model.path_2615_pilon.9,evm.model.path_6516_pilon.2,evm.model.path_6516_pilon.3,evm.model.path_973_pilon.12
+Dpun_OGSprelim3_pep.dom	7	exact solution	terminal loss	PF00817-PF11799	evm.model.path_1934_pilon.3
+Dpun_OGSprelim3_pep.dom	7	exact solution	fission	PF01585	evm.model.path_1353_pilon.8,evm.model.path_2061_pilon.3,evm.model.path_562_pilon.26,evm.model.path_7564_pilon.2,evm.model.path_817_pilon.6,evm.model.path_965_pilon.4
+Dpun_OGSprelim3_pep.dom	7	exact solution	fusion	PF00096-PF05605-PF00096	evm.model.path_355_pilon.4
+Dpun_OGSprelim3_pep.dom	7	exact solution	fusion	PF00096-PF13912-PF12874-PF00096	evm.model.path_484_pilon.23,evm.model.path_4873_pilon.3
+Dpun_OGSprelim3_pep.dom	7	exact solution	fusion	PF12796-PF13637-PF00023	evm.model.path_329_pilon.41,evm.model.path_61_pilon.45
+Dpun_OGSprelim3_pep.dom	7	exact solution	fusion	PF00515-PF00076	evm.model.path_483_pilon.31_evm.model.path_483_pilon.33,evm.model.path_5128_pilon.1
+Dpun_OGSprelim3_pep.dom	7	exact solution	fission	PF00929	evm.model.path_152_pilon.53,evm.model.path_186_pilon.32,evm.model.path_1894_pilon.4,evm.model.path_291_pilon.4,evm.model.path_823_pilon.28
+Dpun_OGSprelim3_pep.dom	7	exact solution	fusion	PF08477-PF00071	evm.model.path_351_pilon.12
+Dpun_OGSprelim3_pep.dom	7	exact solution	fusion	PF12701-PF09532-PF03853	evm.model.path_67_pilon.90
+Dpun_OGSprelim3_pep.dom	7	exact solution	fusion	PF13639-PF00630	evm.model.path_1173_pilon.20
+Dpun_OGSprelim3_pep.dom	7	exact solution	fusion	PF00069-PF10409	evm.model.path_235_pilon.15
+Dpun_OGSprelim3_pep.dom	7	exact solution	fission	PF01390	evm.model.path_612_pilon.16,evm.model.path_698_pilon.9
+Dpun_OGSprelim3_pep.dom	7	exact solution	fission	PF00111	evm.model.path_3130_pilon.2,evm.model.path_3491_pilon.5,evm.model.path_559_pilon.45,evm.model.path_757_pilon.25
+Dpun_OGSprelim3_pep.dom	7	exact solution	fission	PF03810	evm.model.path_1730_pilon.26,evm.model.path_443_pilon.18
+Dpun_OGSprelim3_pep.dom	7	exact solution	fission	PF00307	evm.model.path_10876_pilon.1,evm.model.path_1436_pilon.2,evm.model.path_2239_pilon.9,evm.model.path_231_pilon.42,evm.model.path_231_pilon.45,evm.model.path_496_pilon.4,evm.model.path_836_pilon.57,evm.model.path_851_pilon.2,evm.model.path_93_pilon.51
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF10513-PF13831-PF13832	RS005346-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF14709	RS005060-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF13513	RS006113-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	terminal loss	PF07774	RS008555-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF02759-PF00169	RS003960-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF09379-PF00373-PF09380-PF08736-PF00621-PF00169	RS013484-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF13499-PF00153	RS009947-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF13445-PF00160	RS009251-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF00439	RS003703-PA,RS004952-PA,RS014881-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF00651-PF09237	RS014506-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF02037-PF09335	RS011743-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF00050-PF07679	RS015171-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	terminal loss	PF00817-PF11799	RS004629-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	single domain emergence	PF06331	RS011392-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF01585	RS002162-PA,RS007520-PA,RS013350-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF08311-PF00069	RS004760-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF12796-PF13637-PF00023	RS004002-PA,RS009284-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF00856-PF00096	RS012257-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF00004-PF08519	RS003748-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF13639-PF00628	RS012775-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF00533	RS003696-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF00515-PF00076	RS009812-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF01799-PF00941-PF03450-PF01315-PF02738	RS007857-PA,RS010228-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF12799-PF13855-PF14580	RS003750-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF00564-PF00595	RS010583-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF00929	RS000247-PA,RS005906-PA,RS008720-PA,RS009691-PA,RS011042-PA,RS013690-PA,RS014142-PA,RS015448-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF00084-PF00059-PF00084	RS007270-PA,RS010439-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF00566-PF00581	RS000662-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	terminal emergence	PF01814-PF12937	RS009636-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	terminal emergence	PF11600-PF12253	RS012466-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF13927-PF07679-PF13927-PF07679-PF00041-PF07679-PF00041	RS003048-PA,RS006915-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	single domain emergence	PF07297	RS010988-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF12701-PF09532-PF03853	RS000449-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	single domain emergence	PF05025	RS010860-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	terminal loss	PF05188-PF05192-PF00488	RS005326-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF13639-PF00630	RS001121-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF13405-PF13499	RS004294-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF00069-PF10409	RS008962-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF00787-PF00069-PF00433	RS001713-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	terminal emergence	PF11548-PF00102	RS008780-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF01390	RS012359-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF01661-PF13716	RS000949-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	terminal loss	PF00270-PF00271-PF13234-PF08148	RS002881-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF00754-PF07714	RS012985-PA,RS012983-PA,RS015542-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF16746-PF00169-PF01412-PF12796-PF00018	RS006842-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF13499-PF00857	RS014120-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF13424-PF13181	RS005552-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF13927-PF07679-PF13927-PF07679-PF00041-PF13927-PF00041	RS006926-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF00111	RS005090-PA,RS010230-PA,RS011075-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fusion	PF00270-PF00271-PF00476	RS012419-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF16213-PF12783-PF01369	RS011752-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF03810	RS004091-PA,RS012500-PA
+Rspe_OGS1.0.pep.dom	7	exact solution	fission	PF00307	RS005589-PA,RS008779-PA,RS009013-PA,RS009034-PA,RS009323-PA
+Bger_pep_noPG_loI.dom	7	exact solution	fusion	PF02759-PF00169	BGER008015-RA
+Bger_pep_noPG_loI.dom	7	exact solution	fusion	PF13445-PF00160	BGER010957-RA
+Bger_pep_noPG_loI.dom	7	exact solution	fission	PF00439	BGER000562-RA,BGER006190-RA,BGER007368-RA,BGER013599-RA
+Bger_pep_noPG_loI.dom	7	exact solution	fission	PF01585	BGER006134-RA,BGER007455-RA,BGER013406-RA,BGER021985-RA
+Bger_pep_noPG_loI.dom	7	exact solution	fission	PF00929	BGER000894-RA,BGER002087-RA,BGER003817-RA,BGER015273-RA,BGER022109-RA
+Bger_pep_noPG_loI.dom	7	exact solution	fusion	PF13927-PF07679-PF13927-PF07679-PF00041-PF07679-PF00041	BGER011869-RA
+Bger_pep_noPG_loI.dom	7	exact solution	terminal loss	PF05188-PF05192-PF00488	BGER001976-RA
+Bger_pep_noPG_loI.dom	7	exact solution	fission	PF13423	BGER013359-RA
+Bger_pep_noPG_loI.dom	7	exact solution	fission	PF01390	BGER003382-RA,BGER014101-RA,BGER016828-RA
+Bger_pep_noPG_loI.dom	7	exact solution	fission	PF03810	BGER009131-RA,BGER009827-RA,BGER010527-RA
+Bger_pep_noPG_loI.dom	7	exact solution	fission	PF00307	BGER002392-RA,BGER006348-RA,BGER008386-RA,BGER009897-RA,BGER017249-RA,BGER023721-RA,BGER023955-RA,BGER025284-RA,BGER029917-RA
+Mnat_pep_noPG_loI.dom	7	exact solution	fission	PF10513-PF13831-PF13832	Mnat_07987
+Mnat_pep_noPG_loI.dom	7	exact solution	terminal loss	PF07774	Mnat_16554
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF09379-PF00373-PF09380-PF08736-PF00621-PF00169	Mnat_06677
+Mnat_pep_noPG_loI.dom	7	exact solution	fission	PF00439	Mnat_07022,Mnat_11949
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF00651-PF09237	Mnat_14160
+Mnat_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00817-PF11799	Mnat_06420
+Mnat_pep_noPG_loI.dom	7	exact solution	single domain emergence	PF06331	Mnat_17868
+Mnat_pep_noPG_loI.dom	7	exact solution	fission	PF01585	Mnat_06135,Mnat_09689
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF08311-PF00069	Mnat_10922
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF00856-PF00096	Mnat_05263
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF13639-PF00628	Mnat_09022
+Mnat_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00867	Mnat_02392
+Mnat_pep_noPG_loI.dom	7	exact solution	fission	PF00533	Mnat_13339
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF00515-PF00076	Mnat_07029
+Mnat_pep_noPG_loI.dom	7	exact solution	fission	PF01799-PF00941-PF03450-PF01315-PF02738	Mnat_15642,Mnat_15643,Mnat_00397
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF12799-PF13855-PF14580	Mnat_13317
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF00564-PF00595	Mnat_08987
+Mnat_pep_noPG_loI.dom	7	exact solution	fission	PF00929	Mnat_03181,Mnat_04141,Mnat_09577,Mnat_17912,Mnat_13885,Mnat_17788,Mnat_17793
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF00084-PF00059-PF00084	Mnat_14624
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF00566-PF00581	Mnat_06796
+Mnat_pep_noPG_loI.dom	7	exact solution	terminal emergence	PF11600-PF12253	Mnat_10212
+Mnat_pep_noPG_loI.dom	7	exact solution	single domain emergence	PF07297	Mnat_12188
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF13920-PF03145	Mnat_11327
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF13405-PF13499	Mnat_03966
+Mnat_pep_noPG_loI.dom	7	exact solution	fission	PF00435-PF15410	Mnat_14574
+Mnat_pep_noPG_loI.dom	7	exact solution	fission	PF01390	Mnat_13018
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF01661-PF13716	Mnat_08044
+Mnat_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00270-PF00271-PF13234-PF08148	Mnat_00676
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF00754-PF07714	Mnat_08378,Mnat_12880
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF16746-PF00169-PF01412-PF12796-PF00018	Mnat_06436
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF13499-PF00857	Mnat_09619
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF13927-PF07679-PF13927-PF07679-PF00041-PF13927-PF00041	Mnat_03107
+Mnat_pep_noPG_loI.dom	7	exact solution	fission	PF00111	Mnat_18025,Mnat_12890
+Mnat_pep_noPG_loI.dom	7	exact solution	fusion	PF00270-PF00271-PF00476	Mnat_09107
+Mnat_pep_noPG_loI.dom	7	exact solution	fission	PF03810	Mnat_08784
+Mnat_pep_noPG_loI.dom	7	exact solution	fission	PF00307	Mnat_15368,Mnat_06029,Mnat_11433,Mnat_00379
+Mnat_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00055-PF00053-PF00052-PF00053	Mnat_14156
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF07653-PF07647	Csec_G04822-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF14709	Csec_G16359-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF12796-PF13857-PF07724-PF10431	Csec_G15195-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF13513	Csec_G03041-T1
+Csec_pep_noPG_loI.dom	7	exact solution	terminal loss	PF07774	Csec_G09879-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00498-PF13923	Csec_G09606-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF02759-PF00169	Csec_G14466-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF09379-PF00373-PF09380-PF08736-PF00621-PF00169	Csec_G07831-T2
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF13499-PF00153	Csec_G08833-T2
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF13445-PF00160	Csec_G08944-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF00057-PF15494-PF00089	Csec_G07923-T2
+Csec_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00373-PF09380-PF08736-PF05902	Csec_G14665-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF00439	Csec_G03629-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00651-PF07707-PF07534	Csec_G11964-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF02037-PF09335	Csec_G01384-T2
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00050-PF07679	Csec_G02653-T2
+Csec_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00817-PF11799	Csec_G14157-T1
+Csec_pep_noPG_loI.dom	7	exact solution	single domain emergence	PF06331	Csec_G02045-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF01585	Csec_G01925-T1,Csec_G10830-T1,Csec_G13917-T1,Csec_G14139-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00096-PF05605-PF00096	Csec_G06153-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00096-PF13912-PF12874-PF00096	Csec_G06682-T1,Csec_G10031-T1,Csec_G16758-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF08311-PF00069	Csec_G15592-T4
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF12796-PF13637-PF00023	Csec_G10613-T1,Csec_G13517-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF01030-PF00757-PF01030-PF07714	Csec_G12824-T1
+Csec_pep_noPG_loI.dom	7	exact solution	terminal loss	PF09162	Csec_G05619-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF12796-PF13637-PF07525	Csec_G11775-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF00004-PF08519	Csec_G12268-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF13639-PF00628	Csec_G02770-T1
+Csec_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00867	Csec_G00579-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF00533	Csec_G01332-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00515-PF00076	Csec_G16194-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF01799-PF00941-PF03450-PF01315-PF02738	Csec_G11763-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00564-PF00595	Csec_G07514-T1
+Csec_pep_noPG_loI.dom	7	exact solution	terminal loss	PF08952	Csec_G02501-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF00929	Csec_G03653-T1,Csec_G04662-T2,Csec_G06862-T1,Csec_G10706-T1,Csec_G12305-T2,Csec_G12965-T1,Csec_G12966-T1,Csec_G15048-T1,Csec_G16456-T1,Csec_G16555-T1,Csec_G17577-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00566-PF00581	Csec_G00872-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00076-PF03129	Csec_G07179-T2
+Csec_pep_noPG_loI.dom	7	exact solution	terminal emergence	PF01814-PF12937	Csec_G09943-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00097-PF00643-PF00025	Csec_G07339-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF13927-PF07679-PF13927-PF07679-PF00041-PF07679-PF00041	Csec_G11517-T3
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF08477-PF00071	Csec_G13010-T1
+Csec_pep_noPG_loI.dom	7	exact solution	single domain emergence	PF07297	Csec_G12838-T1,Csec_G14791-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF12701-PF09532-PF03853	Csec_G03248-T2
+Csec_pep_noPG_loI.dom	7	exact solution	single domain emergence	PF05025	Csec_G11785-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF02893-PF02138-PF00400	Csec_G06803-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF13639-PF00630	Csec_G14763-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF13920-PF03145	Csec_G04209-T1,Csec_G05837-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF13423	Csec_G05871-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00069-PF10409	Csec_G13819-T3
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00787-PF00069-PF00433	Csec_G08102-T1
+Csec_pep_noPG_loI.dom	7	exact solution	terminal emergence	PF11548-PF00102	Csec_G03119-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF01390	Csec_G05463-T1,Csec_G07967-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF01661-PF13716	Csec_G12833-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF13637-PF12796-PF13637-PF07525	Csec_G16094-T1
+Csec_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00270-PF00271-PF13234-PF08148	Csec_G01739-T1,Csec_G09406-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF16746-PF00169-PF01412-PF12796-PF00018	Csec_G15423-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF05485-PF07776-PF12874-PF00096	Csec_G02525-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF13499-PF00857	Csec_G04686-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF13424-PF13181	Csec_G01254-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF01302-PF00443	Csec_G13615-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF00111	Csec_G01309-T1,Csec_G06090-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fusion	PF00023-PF08344-PF00520	Csec_G11281-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF16213-PF12783-PF01369	Csec_G09188-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF03810	Csec_G04010-T2,Csec_G11766-T2,Csec_G16108-T1
+Csec_pep_noPG_loI.dom	7	exact solution	single domain emergence	PF10642	Csec_G11293-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF09324	Csec_G01115-T1,Csec_G09186-T1
+Csec_pep_noPG_loI.dom	7	exact solution	fission	PF00307	Csec_G00879-T1,Csec_G05364-T1,Csec_G05429-T1,Csec_G06718-T1,Csec_G07464-T2,Csec_G08061-T11,Csec_G08723-T1,Csec_G08858-T1
+Csec_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00055-PF00053-PF00052-PF00053	Csec_G08365-T1
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF07653-PF07647	evm.model.fragScaff_scaffold_782.2
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF10513-PF13831-PF13832	evm.model.original_scaffold_7574.27
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF14709	evm.model.fragScaff_scaffold_264.9
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF12796-PF13857-PF07724-PF10431	evm.model.fragScaff_scaffold_123.10
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF13513	evm.model.fragScaff_scaffold_10.12
+Cfor_pep_noPG_loI.dom	7	exact solution	terminal loss	PF07774	evm.model.fragScaff_scaffold_687.4
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF02759-PF00169	evm.model.fragScaff_scaffold_77.13
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF09379-PF00373-PF09380-PF08736-PF00621-PF00169	evm.model.original_scaffold_12802.60
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF13499-PF00153	evm.model.fragScaff_scaffold_609.25
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF00439	evm.model.fragScaff_scaffold_379.21,evm.model.fragScaff_scaffold_835.54
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF00651-PF07707-PF07534	evm.model.fragScaff_scaffold_90.35
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF02037-PF09335	evm.model.fragScaff_scaffold_530.11
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF00050-PF07679	evm.model.original_scaffold_9841.3
+Cfor_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00817-PF11799	evm.model.fragScaff_scaffold_721.4
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF01585	evm.model.fragScaff_scaffold_481.32,evm.model.fragScaff_scaffold_683.27,evm.model.original_scaffold_7432.21
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF12796-PF13637-PF00023	evm.model.original_scaffold_5789.10
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF00004-PF08519	evm.model.fragScaff_scaffold_324.4
+Cfor_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00867	evm.model.original_scaffold_7624.6
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF01799-PF00941-PF03450-PF01315-PF02738	evm.model.original_scaffold_10427.7
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF00564-PF00595	evm.model.fragScaff_scaffold_17.5
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF00929	evm.model.fragScaff_scaffold_277.3,evm.model.fragScaff_scaffold_563.5,evm.model.fragScaff_scaffold_592.11,evm.model.fragScaff_scaffold_726.4,evm.model.fragScaff_scaffold_89.31,evm.model.fragScaff_scaffold_915.38,evm.model.original_scaffold_3490.20
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF00084-PF00059-PF00084	evm.model.original_scaffold_12173.25
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF00566-PF00581	evm.model.fragScaff_scaffold_611.31
+Cfor_pep_noPG_loI.dom	7	exact solution	terminal emergence	PF11600-PF12253	evm.model.fragScaff_scaffold_960.19
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF13927-PF07679-PF13927-PF07679-PF00041-PF07679-PF00041	evm.model.original_scaffold_7989.7,evm.model.original_scaffold_8277.18
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF12701-PF09532-PF03853	evm.model.original_scaffold_10151.10
+Cfor_pep_noPG_loI.dom	7	exact solution	single domain emergence	PF05025	evm.model.fragScaff_scaffold_357.2
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF13405-PF13499	evm.model.original_scaffold_6967.11
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF00787-PF00069-PF00433	evm.model.fragScaff_scaffold_495.12
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF00435-PF15410	evm.model.fragScaff_scaffold_227.28
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF01390	evm.model.fragScaff_scaffold_5.14
+Cfor_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00270-PF00271-PF13234-PF08148	evm.model.fragScaff_scaffold_348.22
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF16746-PF00169-PF01412-PF12796-PF00018	evm.model.fragScaff_scaffold_441.4
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF13499-PF00857	evm.model.fragScaff_scaffold_89.10
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF00111	evm.model.fragScaff_scaffold_462.14,evm.model.fragScaff_scaffold_521.42
+Cfor_pep_noPG_loI.dom	7	exact solution	fusion	PF00270-PF00271-PF00476	evm.model.original_scaffold_8705.40
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF03810	evm.model.fragScaff_scaffold_470.7,evm.model.original_scaffold_7149.4
+Cfor_pep_noPG_loI.dom	7	exact solution	fission	PF00307	evm.model.fragScaff_scaffold_227.27,evm.model.fragScaff_scaffold_718.6,evm.model.original_scaffold_12575.15,evm.model.original_scaffold_7574.55
+Cfor_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00055-PF00053-PF00052-PF00053	evm.model.fragScaff_scaffold_867.9
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF07653-PF07647	Znev_08423
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF10513-PF13831-PF13832	Znev_06035
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF14709	Znev_03091
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF12796-PF13857-PF07724-PF10431	Znev_07199
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF13513	Znev_18571,Znev_09052
+Znev_pep_noPG_loI.dom	7	exact solution	terminal loss	PF07774	Znev_15503
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00498-PF13923	Znev_01888
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF02759-PF00169	Znev_02040
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF09379-PF00373-PF09380-PF08736-PF00621-PF00169	Znev_02341
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF13499-PF00153	Znev_08162
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF13445-PF00160	Znev_09730
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF00057-PF15494-PF00089	Znev_03412,Znev_12289
+Znev_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00373-PF09380-PF08736-PF05902	Znev_03151
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF00439	Znev_17052,Znev_01574,Znev_08740
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00651-PF07707-PF07534	Znev_13293
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00651-PF09237	Znev_03502
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF02037-PF09335	Znev_07875
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00050-PF07679	Znev_12618
+Znev_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00817-PF11799	Znev_13125
+Znev_pep_noPG_loI.dom	7	exact solution	single domain emergence	PF06331	Znev_00706
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF01585	Znev_11486,Znev_02291,Znev_13310,Znev_14139
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00096-PF05605-PF00096	Znev_03300
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00096-PF13912-PF12874-PF00096	Znev_12313
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF08311-PF00069	Znev_04043
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF12796-PF13637-PF00023	Znev_15902
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00856-PF00096	Znev_08706
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF01030-PF00757-PF01030-PF07714	Znev_02684,Znev_02685
+Znev_pep_noPG_loI.dom	7	exact solution	terminal loss	PF09162	Znev_16354,Znev_14352
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF12796-PF13637-PF07525	Znev_01094
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF13639-PF00628	Znev_16500
+Znev_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00867	Znev_07828
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF00533	Znev_02686,Znev_16095
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00515-PF00076	Znev_01585
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF01799-PF00941-PF03450-PF01315-PF02738	Znev_07092
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF12799-PF13855-PF14580	Znev_13782
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00564-PF00595	Znev_06530
+Znev_pep_noPG_loI.dom	7	exact solution	terminal loss	PF08952	Znev_16395
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF00929	Znev_04102,Znev_03267,Znev_06176,Znev_07843,Znev_02569,Znev_08292,Znev_01045
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00084-PF00059-PF00084	Znev_03178
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00566-PF00581	Znev_10767
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00076-PF03129	Znev_11853
+Znev_pep_noPG_loI.dom	7	exact solution	terminal emergence	PF01814-PF12937	Znev_14250
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00097-PF00643-PF00025	Znev_04713
+Znev_pep_noPG_loI.dom	7	exact solution	terminal emergence	PF11600-PF12253	Znev_04858
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF13927-PF07679-PF13927-PF07679-PF00041-PF07679-PF00041	Znev_18189,Znev_01975
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF08477-PF00071	Znev_11869
+Znev_pep_noPG_loI.dom	7	exact solution	single domain emergence	PF07297	Znev_17809
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF12701-PF09532-PF03853	Znev_13575
+Znev_pep_noPG_loI.dom	7	exact solution	single domain emergence	PF05025	Znev_12112
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF02893-PF02138-PF00400	Znev_02201
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF13639-PF00630	Znev_06628
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF13920-PF03145	Znev_13723
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF13405-PF13499	Znev_03579
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF13423	Znev_15038
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00069-PF10409	Znev_00783
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00787-PF00069-PF00433	Znev_06067
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF00435-PF15410	Znev_06759
+Znev_pep_noPG_loI.dom	7	exact solution	terminal emergence	PF11548-PF00102	Znev_01384
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF01661-PF13716	Znev_08049
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF13637-PF12796-PF13637-PF07525	Znev_03509
+Znev_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00270-PF00271-PF13234-PF08148	Znev_10472
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00754-PF07714	Znev_16294,Znev_16087,Znev_13776
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF16746-PF00169-PF01412-PF12796-PF00018	Znev_05687
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF05485-PF07776-PF12874-PF00096	Znev_12318
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF13499-PF00857	Znev_02590
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF13424-PF13181	Znev_07642
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF13927-PF07679-PF13927-PF07679-PF00041-PF13927-PF00041	Znev_08732
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF01302-PF00443	Znev_05521
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF00111	Znev_06768,Znev_06246
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00023-PF08344-PF00520	Znev_08419
+Znev_pep_noPG_loI.dom	7	exact solution	fusion	PF00270-PF00271-PF00476	Znev_03153
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF16213-PF12783-PF01369	Znev_04040
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF03810	Znev_16349,Znev_16038,Znev_05712,Znev_09077
+Znev_pep_noPG_loI.dom	7	exact solution	single domain emergence	PF10642	Znev_08400
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF09324	Znev_08189
+Znev_pep_noPG_loI.dom	7	exact solution	fission	PF00307	Znev_14724,Znev_04295,Znev_05587,Znev_05533,Znev_05927,Znev_17567
+Znev_pep_noPG_loI.dom	7	exact solution	terminal loss	PF00055-PF00053-PF00052-PF00053	Znev_14206
+Pame_pep_noPG_loI.dom	7	exact solution	fission	PF00439	PaOGS22605,PaOGS23372,PaOGS34360,PaOGS30559,PaOGS04728
+Pame_pep_noPG_loI.dom	7	exact solution	fission	PF01585	PaOGS22699,PaOGS19857,PaOGS15563
+Pame_pep_noPG_loI.dom	7	exact solution	fission	PF00004-PF08519	PaOGS34378
+Pame_pep_noPG_loI.dom	7	exact solution	fission	PF00929	PaOGS02594,PaOGS12611,PaOGS22210,PaOGS05524,PaOGS29227,PaOGS13291,PaOGS12533,PaOGS34120,PaOGS25884
+Pame_pep_noPG_loI.dom	7	exact solution	fission	PF01390	PaOGS02133
+Pame_pep_noPG_loI.dom	7	exact solution	fission	PF00111	PaOGS19859,PaOGS13718,PaOGS02246
+Pame_pep_noPG_loI.dom	7	exact solution	fission	PF03810	PaOGS20835,PaOGS35465
+Pame_pep_noPG_loI.dom	7	exact solution	fission	PF00307	PaOGS19863,PaOGS37234,PaOGS21349,PaOGS18477,PaOGS23356,PaOGS34037,PaOGS22229,PaOGS03326,PaOGS28233,PaOGS10795,PaOGS15258
+outgroup.dom	7	exact solution	fission	PF10513-PF13831-PF13832	FOCC007199-PA,jg5235.t1
+outgroup.dom	7	exact solution	fission	PF14709	FOCC001485-PA
+outgroup.dom	7	exact solution	terminal loss	PF07774	jg20611.t1
+outgroup.dom	7	exact solution	fusion	PF00498-PF13923	FOCC000790-PA,jg18161.t1
+outgroup.dom	7	exact solution	fission	PF00057-PF15494-PF00089	jg5036.t1
+outgroup.dom	7	exact solution	fission	PF00439	FOCC008856-PA,FOCC013946-PA,jg21210.t1,jg2383.t1,jg15247.t1,jg19163.t1,jg4101.t1,jg8968.t1,jg25964.t1,jg9089.t1,jg8102.t1,jg3851.t1,jg6076.t1,jg514.t1
+outgroup.dom	7	exact solution	fusion	PF00651-PF07707-PF07534	FOCC017441-PA,jg6871.t1
+outgroup.dom	7	exact solution	fusion	PF00651-PF09237	FOCC008470-PA
+outgroup.dom	7	exact solution	fission	PF01585	FOCC006241-PA,FOCC011744-PA,jg18425.t1,jg12263.t1
+outgroup.dom	7	exact solution	fusion	PF08311-PF00069	FOCC016068-PA,jg26343.t1
+outgroup.dom	7	exact solution	fusion	PF00856-PF00096	FOCC001767-PA,FOCC008302-PA,FOCC008690-PA
+outgroup.dom	7	exact solution	fusion	PF01030-PF00757-PF01030-PF07714	jg18477.t1
+outgroup.dom	7	exact solution	terminal loss	PF09162	jg13146.t1
+outgroup.dom	7	exact solution	fission	PF00004-PF08519	FOCC000241-PA,FOCC005045-PA,jg20076.t1
+outgroup.dom	7	exact solution	fusion	PF13639-PF00628	FOCC003180-PA,jg23242.t1
+outgroup.dom	7	exact solution	terminal loss	PF00867	jg27460.t1
+outgroup.dom	7	exact solution	fission	PF00533	FOCC006716-PA
+outgroup.dom	7	exact solution	fusion	PF12799-PF13855-PF14580	FOCC005319-PA
+outgroup.dom	7	exact solution	fusion	PF00564-PF00595	FOCC000639-PA,jg15705.t1
+outgroup.dom	7	exact solution	fission	PF00929	FOCC002489-PA,FOCC007610-PA,FOCC014653-PA,FOCC015880-PA,FOCC016326-PA,jg22493.t1,jg16756.t1,jg16649.t1,jg26432.t1,jg22311.t1,jg25064.t1,jg5493.t1
+outgroup.dom	7	exact solution	fusion	PF00084-PF00059-PF00084	jg18095.t1
+outgroup.dom	7	exact solution	fusion	PF00566-PF00581	FOCC002627-PA
+outgroup.dom	7	exact solution	fusion	PF13920-PF03145	jg8312.t1
+outgroup.dom	7	exact solution	fission	PF01390	FOCC013722-PA,jg26761.t1
+outgroup.dom	7	exact solution	terminal loss	PF00270-PF00271-PF13234-PF08148	FOCC006730-PA,jg23770.t1
+outgroup.dom	7	exact solution	fusion	PF00754-PF07714	FOCC009558-PA,FOCC009565-PA,jg4301.t1
+outgroup.dom	7	exact solution	fusion	PF16746-PF00169-PF01412-PF12796-PF00018	FOCC005752-PA
+outgroup.dom	7	exact solution	fusion	PF01302-PF00443	FOCC007605-PA
+outgroup.dom	7	exact solution	fission	PF00111	FOCC002961-PA,FOCC013800-PA,jg15567.t1,jg23154.t1
+outgroup.dom	7	exact solution	fusion	PF00023-PF08344-PF00520	jg8185.t1
+outgroup.dom	7	exact solution	fusion	PF00270-PF00271-PF00476	FOCC007707-PA,jg3525.t1
+outgroup.dom	7	exact solution	fission	PF03810	FOCC013547-PA,jg4999.t1,jg23648.t1,jg3176.t1
+outgroup.dom	7	exact solution	fission	PF09324	jg6653.t1
+outgroup.dom	7	exact solution	fission	PF00307	FOCC003029-PA,FOCC003396-PA,FOCC005012-PA,FOCC009090-PA,FOCC009442-PA,jg22609.t1,jg8776.t1,jg16364.t1,jg18831.t1,jg15700.t1,jg4642.t1,jg11401.t1
+outgroup.dom	7	exact solution	terminal loss	PF00055-PF00053-PF00052-PF00053	FOCC017661-PA
